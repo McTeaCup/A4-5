@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11845eb3e823fbe4f8e9a43f8b5844f9, type: 3}
+  m_Name: Standard Bullet 1
+  m_EditorClassIdentifier: 
+  damage: 10
+  survivaltime: 1
+  bulletSpeed: 1000
+  fireSpeed: 0.15
+  multiplierPoints: 2
+  rocketRadius: 2
+  acceleration: 0.1
+  itemName: Standard Bullet
+  weaponDiscription: 
+  weaponImage: {fileID: 21300000, guid: 2fa7989b569019140a17e168067f4117, type: 3}
+  bulletColor: {r: 1, g: 1, b: 1, a: 1}
